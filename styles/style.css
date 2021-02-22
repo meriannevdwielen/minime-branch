@@ -1,0 +1,42 @@
+body
+{background-color:rgb(58, 52, 52) ;
+border: solid;
+margin-left: 4cm;
+margin-right: 4cm;
+margin-bottom: 0cm;} 
+
+
+h1
+{color: red;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: larger;}
+
+
+
+sub {
+    color:hsl(0, 100%, 50%); 
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size:large}
+
+
+
+p {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: left;
+  }
+
+  img{float: right above;
+margin-top: 5mm;
+margin-left: 5mm}
+
+  iframe{float: left;
+    margin-top: 5mm;
+margin-left: 0mm;}
+
+
+
+
+
+ 
